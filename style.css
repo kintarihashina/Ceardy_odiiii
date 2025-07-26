@@ -1,3 +1,15 @@
 .pfp {
     border-radius: 50px;
 }
+body {
+    background-color: #DCB991;
+}
+.gifceardy {
+    padding: 30px;
+    
+}
+.name {
+    font-size: 25px;
+    font-family: Courier New;
+    margin-left : 40px;
+}
